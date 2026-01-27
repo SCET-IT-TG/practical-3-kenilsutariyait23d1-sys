@@ -1,7 +1,7 @@
 import React from 'react';
-import Counter from './component/Counter';
-import TweetInput from './component/TweetInput';
-import ThemeSwitcher from './component/ThemeSwitcher';
+import Counter from './components/Counter';
+import TweetInput from './components/TweetInput';
+import ThemeSwitcher from './components/ThemeSwitcher';
 
 function App() {
     return (
